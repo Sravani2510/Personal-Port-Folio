@@ -158,12 +158,12 @@ section {
   text-decoration: none;
   display: inline-block;
   font-size: 18px;
-  border: 2px solid #27AE60;
+  border: 2px solid var(--color-secondary);
   transition-duration: 0.4s;
 }
 #btn:hover
 {
-  background-color: #27AE60;
+  background-color: var(--color-secondary);
 }
 /*Header-content*/
 .header-content {
